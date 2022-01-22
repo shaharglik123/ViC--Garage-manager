@@ -1,0 +1,7 @@
+C:\Users\shaha\Desktop\temp\A22 Ex03\A22 Ex03.3\A22 Ex03\GarageManager\bin\Debug\GarageLogic.dll.config
+C:\Users\shaha\Desktop\temp\A22 Ex03\A22 Ex03.3\A22 Ex03\GarageManager\bin\Debug\GarageLogic.dll
+C:\Users\shaha\Desktop\temp\A22 Ex03\A22 Ex03.3\A22 Ex03\GarageManager\bin\Debug\GarageLogic.pdb
+C:\Users\shaha\Desktop\temp\A22 Ex03\A22 Ex03.3\A22 Ex03\GarageManager\obj\Debug\Ex03.GarageLogic.csprojAssemblyReference.cache
+C:\Users\shaha\Desktop\temp\A22 Ex03\A22 Ex03.3\A22 Ex03\GarageManager\obj\Debug\Ex03.GarageLogic.csproj.CoreCompileInputs.cache
+C:\Users\shaha\Desktop\temp\A22 Ex03\A22 Ex03.3\A22 Ex03\GarageManager\obj\Debug\GarageLogic.dll
+C:\Users\shaha\Desktop\temp\A22 Ex03\A22 Ex03.3\A22 Ex03\GarageManager\obj\Debug\GarageLogic.pdb
